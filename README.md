@@ -132,6 +132,17 @@
 - [어댑터 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/AdapterPattern.md)
 - [옵저버 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/ObserverPattern.md)
 
+
+
+## 그래픽스
+
+- [셰이더](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/ObserverPattern.md)
+
+
+## 네트워크
+
+
+
 ---
 
 ### 심심풀이
